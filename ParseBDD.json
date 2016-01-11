@@ -1,0 +1,16 @@
+{ "results": [
+	{
+        "ACL": {
+            "*": {
+                "read": true,
+                "write": true
+            }
+        },
+        "createdAt": "2016-01-11T21:53:10.906Z",
+        "objectId": "RGxzoDV9Rx",
+        "updatedAt": "2016-01-11T21:53:10.906Z"
+        "userEmail": "florent.ferrand@gmail.com"
+        "userpassword": "test33000Flo"
+        "userRepeatPassword": "test33000Flo"
+    }
+] }
